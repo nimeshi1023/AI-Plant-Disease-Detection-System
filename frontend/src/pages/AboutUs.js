@@ -108,7 +108,7 @@ const AboutUS = () => {
             <ul className="space-y-6 text-xl text-gray-600">
               <li>✔ Fully trained & insured cleaning professionals</li>
               <li>✔ Residential, commercial & end-of-lease cleaning</li>
-              <li>✔ DT-friendly & safe cleaning products</li>
+              <li>✔ Eco-friendly & safe cleaning products</li>
               <li>✔ Flexible scheduling & affordable pricing</li>
               <li>✔ 100% satisfaction guarantee</li>
             </ul>

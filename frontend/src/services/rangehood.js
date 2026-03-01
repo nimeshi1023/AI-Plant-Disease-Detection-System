@@ -59,10 +59,10 @@ const RangehoodCleaning = () => {
               Rangehoods collect grease, dust, and cooking residue over time, which can reduce efficiency and create fire hazards. Our professional team provides a thorough cleaning service that removes all buildup, leaving your rangehood spotless and fully functional.
             </p>
             <p className="text-gray-700 mb-4 leading-relaxed">
-              We dismantle, clean, and reassemble your rangehood using eco-friendly cleaning products that are safe for your kitchen, family, and pets. Regular maintenance improves air circulation and extends the life of your appliance.
+              We dismantle, clean, and reassemble your rangehood using eco-friendly cleaning products that are safe for your kitchen. Regular maintenance improves air circulation and extends the life of your appliance.
             </p>
             <p className="text-gray-700 leading-relaxed">
-              Whether it’s a residential kitchen or a commercial cooking space, Bay Eco Cleaners has the expertise and tools to deliver a deep clean that meets the highest standards of hygiene and performance.
+              Whether it’s a residential kitchen or a commercial cooking space, DT Property Cleaners has the expertise and tools to deliver a deep clean that meets the highest standards of hygiene and performance.
             </p>
           </div>
         </div>

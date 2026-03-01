@@ -58,7 +58,7 @@ const HolidayHomeCleaning = () => {
               Our holiday home cleaning service ensures your property is pristine, hygienic, and guest-ready. We provide deep cleaning of all rooms, kitchens, bathrooms, and living spaces, making sure everything is spotless for your next stay or rental.
             </p>
             <p className="text-gray-700 mb-4 leading-relaxed">
-              Bay Eco Cleaners uses eco-friendly products that are safe for the environment and for your family or guests. From removing dust and dirt to sanitizing surfaces and polishing windows, our team ensures every corner of your holiday home shines.
+              DT Property Cleaners uses eco-friendly products that are safe for the environment and for your family or guests. From removing dust and dirt to sanitizing surfaces and polishing windows, our team ensures every corner of your holiday home shines.
             </p>
             <p className="text-gray-700 leading-relaxed">
               Whether it’s a short-term rental or a seasonal getaway home, we tailor our services to meet your needs, providing reliable, thorough, and efficient cleaning every time.

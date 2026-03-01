@@ -62,7 +62,7 @@ const BuildersCleaning = () => {
               We handle all types of sites, from small renovations to large-scale construction projects. Our professional team uses high-quality equipment and eco-friendly cleaning products to ensure thorough cleaning without damaging surfaces.
             </p>
             <p className="text-gray-700 leading-relaxed">
-              Our services include floor cleaning, window cleaning, dusting of walls and surfaces, removal of paint splashes and adhesives, and complete sanitization. With Bay Eco Cleaners, you can be confident that your property will be spotless and safe for use.
+              Our services include floor cleaning, window cleaning, dusting of walls and surfaces, removal of paint splashes and adhesives, and complete sanitization. With DT Property Cleaners, you can be confident that your property will be spotless and safe for use.
             </p>
           </div>
         </div>

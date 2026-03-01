@@ -25,7 +25,7 @@ const CarpetCleaning = () => {
             Safe & Healthy Carpet Cleaning
           </h1>
           <p data-aos="fade-up" className="max-w-3xl mx-auto text-lg opacity-90 mb-10">
-            At Bay Eco Cleaners we specialise in premium carpet cleaning services for both residential and commercial clients. We have the best equipment to service any carpet size, ensuring top-quality results.
+            At DT Property Cleaners we specialise in premium carpet cleaning services for both residential and commercial clients. We have the best equipment to service any carpet size, ensuring top-quality results.
           </p>
 
           {/* Quote Button */}
@@ -56,7 +56,7 @@ const CarpetCleaning = () => {
           <div className="md:w-1/2" data-aos="fade-left">
             <h2 className="text-3xl font-bold mb-6">Safe & Thorough Carpet Cleaning</h2>
             <p className="text-gray-700 mb-4 leading-relaxed">
-              At Bay Eco Cleaners, we provide premium carpet cleaning services that cater to both residential and commercial clients. Our professional team ensures every carpet is cleaned thoroughly, removing dust, allergens, dirt, and tough stains. We use state-of-the-art equipment and eco-friendly cleaning products that are safe for your family and pets.
+              At DT Property Cleaners, we provide premium carpet cleaning services that cater to both residential and commercial clients. Our professional team ensures every carpet is cleaned thoroughly, removing dust, allergens, dirt, and tough stains. We use state-of-the-art equipment and eco-friendly cleaning products that are safe for your family and pets.
             </p>
             <p className="text-gray-700 mb-4 leading-relaxed">
               We pride ourselves on being able to clean any size of carpet area efficiently. Our specialized techniques not only restore the appearance of your carpets but also improve indoor air quality, creating a safe and healthy environment in your home or business. Customer satisfaction is our top priority, and we guarantee top-quality results every time.
