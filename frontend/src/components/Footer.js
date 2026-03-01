@@ -68,7 +68,7 @@ const Footer = () => {
 
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 mt-16 pt-6 text-center text-sm opacity-70">
-          © {new Date().getFullYear()} NZ Pro Cleaning Services. All rights reserved.
+          © {new Date().getFullYear()} DT Property Cleaning Services. All rights reserved.
         </div>
       </div>
     </footer>
