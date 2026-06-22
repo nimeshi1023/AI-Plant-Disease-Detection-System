@@ -73,12 +73,42 @@ AI Plant Disease Detection System
   <img src="https://raw.githubusercontent.com/nimeshi1023/AI-Plant-Disease-Detection-System/main/Screenshot/Screenshot%20(1279).png" width="40%"/>
   &nbsp;&nbsp;&nbsp;
 
-  <img src="https://raw.githubusercontent.com/nimeshi1023/AI-Plant-Disease-Detection-System/main/Screenshot/Screenshot%202026-04-03%20172745.png" width="40%"/>
+  <img src="https://raw.githubusercontent.com/nimeshi1023/AI-Plant-Disease-Detection-System/main/Screenshot/Screenshot%20(1280).png" width="40%"/>
   &nbsp;&nbsp;&nbsp;
 
-  <img src="https://raw.githubusercontent.com/nimeshi1023/AI-Plant-Disease-Detection-System/main/Screenshot/Screenshot%202026-04-03%20173428.png" width="40%"/>
+  <img src="https://raw.githubusercontent.com/nimeshi1023/AI-Plant-Disease-Detection-System/main/Screenshot/Screenshot%20(1281).png" width="40%"/>
   &nbsp;&nbsp;&nbsp;
 
-  <img src="https://raw.githubusercontent.com/nimeshi1023/AI-Plant-Disease-Detection-System/main/Screenshot/Screenshot%202026-04-03%20194231.png" width="40%"/>
+  <img src="https://raw.githubusercontent.com/nimeshi1023/AI-Plant-Disease-Detection-System/main/Screenshot/Screenshot%20(1282).png" width="40%"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/nimeshi1023/AI-Plant-Disease-Detection-System/main/Screenshot/Screenshot%20(1283).png" width="40%"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/nimeshi1023/AI-Plant-Disease-Detection-System/main/Screenshot/Screenshot%20(1284).png" width="40%"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/nimeshi1023/AI-Plant-Disease-Detection-System/main/Screenshot/Screenshot%20(1285).png" width="40%"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/nimeshi1023/AI-Plant-Disease-Detection-System/main/Screenshot/Screenshot%20(1286).png" width="40%"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/nimeshi1023/AI-Plant-Disease-Detection-System/main/Screenshot/Screenshot%20(1287).png" width="40%"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/nimeshi1023/AI-Plant-Disease-Detection-System/main/Screenshot/Screenshot%20(1288).png" width="40%"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/nimeshi1023/AI-Plant-Disease-Detection-System/main/Screenshot/Screenshot%20(1289).png" width="40%"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/nimeshi1023/AI-Plant-Disease-Detection-System/main/Screenshot/Screenshot%20(1290).png" width="40%"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/nimeshi1023/AI-Plant-Disease-Detection-System/main/Screenshot/Screenshot%20(1291).png" width="40%"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/nimeshi1023/AI-Plant-Disease-Detection-System/main/Screenshot/Screenshot%20(1292).png" width="40%"/>
 </p>
 
