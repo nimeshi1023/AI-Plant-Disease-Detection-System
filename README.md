@@ -61,3 +61,24 @@ AI Plant Disease Detection System
 │   └── model/
 └── README.md
 ```
+## Project Overview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nimeshi1023/AI-Plant-Disease-Detection-System/main/Screenshot/Screenshot%20(1277).png" width="40%"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/nimeshi1023/AI-Plant-Disease-Detection-System/main/Screenshot/Screenshot%20(1278).png" width="40%"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/nimeshi1023/AI-Plant-Disease-Detection-System/main/Screenshot/Screenshot%20(1279).png" width="40%"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/nimeshi1023/AI-Plant-Disease-Detection-System/main/Screenshot/Screenshot%202026-04-03%20172745.png" width="40%"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/nimeshi1023/AI-Plant-Disease-Detection-System/main/Screenshot/Screenshot%202026-04-03%20173428.png" width="40%"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/nimeshi1023/AI-Plant-Disease-Detection-System/main/Screenshot/Screenshot%202026-04-03%20194231.png" width="40%"/>
+</p>
+
