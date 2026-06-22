@@ -61,3 +61,18 @@ AI Plant Disease Detection System
 │   └── model/
 └── README.md
 ```
+## Project Overview
+  <p align="center">
+  <img src="https://github.com/nimeshi1023/Employee-Satisfaction-Influence-on-Organizational-Performance-R-Analysis-/blob/main/Screenshot/Screenshot%202026-04-03%20163936.png" width="40%"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/nimeshi1023/Employee-Satisfaction-Influence-on-Organizational-Performance-R-Analysis-/blob/main/Screenshot/Screenshot%202026-04-03%20165608.png" width="40%"/>
+    &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/nimeshi1023/Employee-Satisfaction-Influence-on-Organizational-Performance-R-Analysis-/blob/main/Screenshot/Screenshot%202026-04-03%20170713.png" width="40%"/>
+    &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/nimeshi1023/Employee-Satisfaction-Influence-on-Organizational-Performance-R-Analysis-/blob/main/Screenshot/Screenshot%202026-04-03%20172745.png" width="40%"/>
+    &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/nimeshi1023/Employee-Satisfaction-Influence-on-Organizational-Performance-R-Analysis-/blob/main/Screenshot/Screenshot%202026-04-03%20173428.png" width="40%"/>
+    &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/nimeshi1023/Employee-Satisfaction-Influence-on-Organizational-Performance-R-Analysis-/blob/main/Screenshot/Screenshot%202026-04-03%20194231.png" width="40%"/>
+</p>
+
