@@ -37,9 +37,9 @@ async def predict(file: UploadFile = File(...)):
     image = Image.open(file.file).convert("RGB")
     image = image.resize((IMAGE_SIZE, IMAGE_SIZE))
 
-    img_array = np.array(image).astype(np.float32) / 255.0
+    img_array = np.array(image)
     img_array = np.expand_dims(img_array, axis=0)
- 
+
     predictions = model.predict(img_array)
 
     predicted_class = CLASS_NAMES[np.argmax(predictions[0])]
